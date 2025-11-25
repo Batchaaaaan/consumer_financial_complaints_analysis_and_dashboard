@@ -42,16 +42,16 @@ Consumer Financial Protection Bureau (CFPB), a U.S. government agency ensuring f
 
 
 ### Purpose
-The aim is to provide report that identifies patterns in complaints, evaluates company responses, and highlights areas of concern. The following should address the following questions:
+The aim is to provide report that identifies patterns in complaints, evaluates company responses, and highlights areas of concern. The report should address the following questions:
 
-•	When do complaints rise or fall over time?
-•	Which states and regions are hotspots?
-•	Which products and sub-products drive the most complaints?
-•	Which issues and sub-issues are most common or most severe?
-•	How fast, and how timely are company responses to complaints?
-•	Which companies show the highest complaint rates relative to market share?
-•	Do company traits (size tier, reputation, enforcement history) correlate with outcomes?
-•	Do submission channels differ in response speed or outcomes?
+- When do complaints rise or fall over time?
+- Which states and regions are hotspots?
+-	Which products and sub-products drive the most complaints?
+-	Which issues and sub-issues are most common or most severe?
+-	How fast, and how timely are company responses to complaints?
+-	Which companies show the highest complaint rates relative to market share?
+-	Do company traits (size tier, reputation, enforcement history) correlate with outcomes?
+-	Do submission channels differ in response speed or outcomes?
 
 ### Analysis
 - **62,516** total complaints was submitted in the span of 5 years.
